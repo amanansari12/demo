@@ -70,3 +70,17 @@ index a223efc..298f15b 100644
 * 397ee47 (master) Add new section to README
 * 4dd4051 Initial commit: add README
 '''
+
+### Task 5
+
+1. Output for git status
+
+On branch master
+nothing to commit, working tree clean
+
+2. output for 'git log --oneline --graph'
+
+* aaa4acb (HEAD -> master, feature-x, conflict-branch) Main change to README
+* 401e536 Add feature.txt
+* 397ee47 Add new section to README
+* 4dd4051 Initial commit: add README
